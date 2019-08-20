@@ -7,3 +7,4 @@ leetcode in Java  解题笔记
 - Longest Common Prefix 最长公共前缀
 - Valid Parentheses 有效的括号
 - Merge Two Sorted Lists 合并有序的邻接链表
+- Remove Duplicates From Sorted Array 删除有序数据中重复的元素
