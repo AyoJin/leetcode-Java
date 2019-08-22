@@ -1,3 +1,5 @@
+package problems;
+
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int i = 0;

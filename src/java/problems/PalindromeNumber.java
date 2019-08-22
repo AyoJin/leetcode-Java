@@ -1,3 +1,5 @@
+package problems;
+
 // 回文数
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

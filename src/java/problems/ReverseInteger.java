@@ -1,3 +1,5 @@
+package problems;
+
 public class ReverseInteger {
     public static int reverse(int x) {
         long res = 0l;

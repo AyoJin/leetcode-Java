@@ -1,3 +1,5 @@
+package problems;
+
 public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         int size = strs.length;
