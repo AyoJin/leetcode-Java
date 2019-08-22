@@ -11,3 +11,4 @@ leetcode in Java  解题笔记
 - RemoveElement 移除数组中的指定元素
 - Implement strStr() 找到子串第一次出现的位置
     - 这道题我用的BF，要升级试试KMP算法
+- Search Insert Position 在有序数组中查找插入的位置 （二分查找）
