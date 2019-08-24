@@ -17,4 +17,5 @@ leetcode in Java  解题笔记
 - PlusOne 数组加一
 - AddBinary 二进制求和
 - Sqrt(x) 求平方根 （二分查找， 牛顿迭代法？？？）
-- ClimbingStairs 爬楼梯(动态规划)
+- Climbing Stairs 爬楼梯(动态规划)
+- Remove Duplicates From Sorted List 移除有序链表中重复元素 (两个指针)
