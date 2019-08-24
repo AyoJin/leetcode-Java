@@ -16,3 +16,4 @@ leetcode in Java  解题笔记
 - Maximum Subarray 总和最大子数组（动态规划）
 - PlusOne 数组加一
 - AddBinary 二进制求和
+- Sqrt(x) 求平方根 （二分查找， 牛顿迭代法？？？）
