@@ -1,22 +1,22 @@
 # leetcode-Java
 leetcode in Java  解题笔记
 
-- Reverse Integer 数字翻转
-- Palindrome Number 回文数
-- Roman To Integer 罗马数字转阿拉伯数字
-- Longest Common Prefix 最长公共前缀
-- Valid Parentheses 有效的括号
-- Merge Two Sorted Lists 合并有序的邻接链表
-- Remove Duplicates From Sorted Array 删除有序数据中重复的元素
-- RemoveElement 移除数组中的指定元素
-- Implement strStr() 找到子串第一次出现的位置
+1. Reverse Integer 数字翻转
+2. Palindrome Number 回文数
+3. Roman To Integer 罗马数字转阿拉伯数字
+4. Longest Common Prefix 最长公共前缀
+5. Valid Parentheses 有效的括号
+6. Merge Two Sorted Lists 合并有序的邻接链表
+7. Remove Duplicates From Sorted Array 删除有序数据中重复的元素
+8. RemoveElement 移除数组中的指定元素
+9. Implement strStr() 找到子串第一次出现的位置
     - 这道题我用的BF，要升级试试KMP算法
-- Search Insert Position 在有序数组中查找插入的位置 （二分查找）
-- Count and Say 报数（递归）
-- Maximum Subarray 总和最大子数组（动态规划）
-- PlusOne 数组加一
-- AddBinary 二进制求和
-- Sqrt(x) 求平方根 （二分查找， 牛顿迭代法？？？）
-- Climbing Stairs 爬楼梯(动态规划)
-- Remove Duplicates From Sorted List 移除有序链表中重复元素 (两个指针)
-- Merge Sorted Array 合并有序数组
+10. Search Insert Position 在有序数组中查找插入的位置 （二分查找）
+11.Count and Say 报数（递归）
+12. Maximum Subarray 总和最大子数组（动态规划）
+13. PlusOne 数组加一
+14. AddBinary 二进制求和
+15. Sqrt(x) 求平方根 （二分查找， 牛顿迭代法？？？）
+16. Climbing Stairs 爬楼梯(动态规划)
+17. Remove Duplicates From Sorted List 移除有序链表中重复元素 (两个指针)
+18. Merge Sorted Array 合并有序数组
