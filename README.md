@@ -18,5 +18,7 @@ leetcode in Java  解题笔记
 14. AddBinary 二进制求和
 15. Sqrt(x) 求平方根 （二分查找， 牛顿迭代法？？？）
 16. Climbing Stairs 爬楼梯(动态规划)
-17. Remove Duplicates From Sorted List 移除有序链表中重复元素 (两个指针)
-18. Merge Sorted Array 合并有序数组
+17. Remove Duplicates From Sorted List 移除有序链表中重复元素 （两个指针）
+18. Merge Sorted Array 合并有序数组 （两个指针，从后往前）
+19. Same Tree 相同二叉树 (递归，广度优先，双队列)
+20. Symmetric Tree 对称二叉树 （递归，广度优先，单队列）
