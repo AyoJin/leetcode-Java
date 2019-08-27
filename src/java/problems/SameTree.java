@@ -3,17 +3,10 @@ package problems;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
+import model.TreeNode;
+
 public class SameTree {
 
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     private boolean check(TreeNode p, TreeNode q) {
         if (q == null && p == null) {

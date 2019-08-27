@@ -3,17 +3,9 @@ package problems;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import model.TreeNode;
+
 public class SymmetricTree {
-
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public boolean isSymmetric(TreeNode root) {
         if (root == null) {
