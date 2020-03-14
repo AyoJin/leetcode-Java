@@ -22,3 +22,5 @@ leetcode in Java  解题笔记
 18. Merge Sorted Array 合并有序数组 （两个指针，从后往前）
 19. Same Tree 相同二叉树 (递归，广度优先，双队列)
 20. Symmetric Tree 对称二叉树 （递归，广度优先，单队列）
+21. BinaryTreeOrderTraversalII 二叉树层次遍历（深度优先）
+22. Maximum Depth of Binary Tree 二叉树最大深度
