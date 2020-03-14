@@ -1,4 +1,4 @@
-package problems;
+package com.leetcoode.problems;
 
 // 回文数
 public class PalindromeNumber {

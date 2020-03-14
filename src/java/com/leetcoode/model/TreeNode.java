@@ -1,4 +1,4 @@
-package model;
+package com.leetcoode.model;
 
 public class TreeNode {
     public int val;

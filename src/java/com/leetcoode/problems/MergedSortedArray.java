@@ -1,4 +1,4 @@
-package problems;
+package com.leetcoode.problems;
 
 public class MergedSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

@@ -1,6 +1,6 @@
-package problems;
+package com.leetcoode.problems;
 
-import model.ListNode;
+import com.leetcoode.model.ListNode;
 
 public class MergeTwoSortedLists {
 

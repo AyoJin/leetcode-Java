@@ -1,4 +1,4 @@
-package problems;
+package com.leetcoode.problems;
 
 public class MaximumSubarray {
     public int maxSubArray(int[] nums) {

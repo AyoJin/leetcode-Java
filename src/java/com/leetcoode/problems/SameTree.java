@@ -1,9 +1,9 @@
-package problems;
+package com.leetcoode.problems;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-import model.TreeNode;
+import com.leetcoode.model.TreeNode;
 
 public class SameTree {
 

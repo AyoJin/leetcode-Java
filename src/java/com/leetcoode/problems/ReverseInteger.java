@@ -1,4 +1,4 @@
-package problems;
+package com.leetcoode.problems;
 
 public class ReverseInteger {
     public static int reverse(int x) {

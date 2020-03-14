@@ -1,6 +1,6 @@
-package problems;
+package com.leetcoode.problems;
 
-import model.TreeNode;
+import com.leetcoode.model.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
