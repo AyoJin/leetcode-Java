@@ -24,3 +24,4 @@ leetcode in Java  解题笔记
 20. Symmetric Tree 对称二叉树 （递归，广度优先，单队列）
 21. BinaryTreeOrderTraversalII 二叉树层次遍历（深度优先）
 22. Maximum Depth of Binary Tree 二叉树最大深度
+23. Length of Last Word 字符串末尾的最后一个单词
