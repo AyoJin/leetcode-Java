@@ -12,7 +12,7 @@ leetcode in Java  解题笔记
 9. Implement strStr() 找到子串第一次出现的位置
     - 这道题我用的BF，要升级试试KMP算法
 10. Search Insert Position 在有序数组中查找插入的位置 （二分查找）
-11.Count and Say 报数（递归）
+11. Count and Say 报数（递归）
 12. Maximum Subarray 总和最大子数组（动态规划）
 13. PlusOne 数组加一
 14. AddBinary 二进制求和
