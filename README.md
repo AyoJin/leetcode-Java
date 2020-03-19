@@ -28,4 +28,4 @@ leetcode in Java  解题笔记
 24. Binary Tree Level Order Traversal II 二叉树层次遍历，从底向上
 25. Convert Sorted Array To Binary Search Tree 有序数组转化成二叉搜索树
 26. Minimum Depth of Binary Tree 二叉树的最小深度
-27. 
+27. Path Sum 二叉树路径和
