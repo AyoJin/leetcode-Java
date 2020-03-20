@@ -30,3 +30,4 @@ leetcode in Java  解题笔记
 26. Minimum Depth of Binary Tree 二叉树的最小深度
 27. Path Sum 二叉树路径和
 28. Pascal's Triangle 杨辉三角
+29. Pascal's Triangle 2 杨辉三角2 
