@@ -33,3 +33,4 @@ leetcode in Java  解题笔记
 29. Pascal's Triangle 2 杨辉三角2 
 30. Best Time to Buy and Sell Stock 股票交易的最佳时间
 31. Best Time to Buy and Sell Stock2 股票交易的最佳时间2
+32. Valid Palindrome 有效回文串
