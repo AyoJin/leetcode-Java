@@ -31,3 +31,4 @@ leetcode in Java  解题笔记
 27. Path Sum 二叉树路径和
 28. Pascal's Triangle 杨辉三角
 29. Pascal's Triangle 2 杨辉三角2 
+30. Best Time to Buy and Sell Stock 股票交易的最佳时间
