@@ -1,14 +1,8 @@
 package com.leetcoode.problems;
 
-public class RemoveDuplicatesFromSortedList {
-    class ListNode {
-        int val;
-        ListNode next;
+import com.leetcoode.model.ListNode;
 
-        ListNode(int v) {
-            val = v;
-        }
-    }
+public class RemoveDuplicatesFromSortedList {
 
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null || head.next == null) {
