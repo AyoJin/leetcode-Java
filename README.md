@@ -37,3 +37,4 @@ leetcode in Java  解题笔记
 33. Single Number 单一数字
 34. Linked List Cycle 邻接表的环
 35. Min Stack 最小栈
+36. Intersection of Two Linked Lists 两个邻接表的交汇处
